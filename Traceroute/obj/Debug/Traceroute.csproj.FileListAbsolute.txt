@@ -1,0 +1,14 @@
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\bin\Debug\Traceroute.exe.config
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\bin\Debug\Traceroute.exe
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\bin\Debug\Traceroute.pdb
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.csprojResolveAssemblyReference.cache
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\MainWindow.g.cs
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\App.g.cs
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute_MarkupCompile.cache
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute_MarkupCompile.lref
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\MainWindow.baml
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.g.resources
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.Properties.Resources.resources
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.csproj.GenerateResource.Cache
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.exe
+D:\潘浩滨\Documents\Visual Studio 2015\Projects\CSharp\Traceroute\Traceroute\obj\Debug\Traceroute.pdb
